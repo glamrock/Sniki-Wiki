@@ -1,4 +1,4 @@
-# Sniki ALPHA
+# Sniki-Wiki ALPHA
 
 Sniki-Wiki is also a fork of mediawiki, which is lighter and faster than standard installations.
 
@@ -14,7 +14,7 @@ By trimming the fat and reducing features in the base wiki software, we can less
 ## Features on the chopping block
 
 * Image Upload
-* IP Logging (there is no banhammer)
+* IP Logging/Display (pointless as there is no banhammer)
 * Most languages (languages can be re-added and changed by administrators)
 * API support
 
